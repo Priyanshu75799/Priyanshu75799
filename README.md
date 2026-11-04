@@ -8,7 +8,7 @@ Current Project
 
 USB Nexus
 
-An Android application focused on USB device detection, management, monitoring and diagnostics.
+An Android application focused on USB device detection, management, monitoring and diagnostics..
 
 Areas I'm Working On
 
