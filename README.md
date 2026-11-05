@@ -1,6 +1,6 @@
 Hi, I'm Priyanshu 👋
 
-Android Developer | Python Learner | Exploring AI & Biology
+Beginner Android Developer | Python Learner | Exploring AI & Biology
 
 I'm an aspiring software developer interested in building practical applications, exploring system-level Android functionality, and learning how technology can solve real-world problems.
 
