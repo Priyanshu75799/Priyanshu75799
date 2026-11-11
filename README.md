@@ -1,4 +1,4 @@
-Hi, I'm Priyanshu 👋
+Hi, I'm Priyanshu Rajput
 
 Beginner Android Developer | Python Learner | Exploring AI & Biology
 
