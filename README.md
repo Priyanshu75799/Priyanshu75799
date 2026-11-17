@@ -6,7 +6,8 @@ I'm an aspiring software developer interested in building practical applications
 
 Current Project
 
-USB Nexus
+- USB Nexus
+- AOD
 
 An Android application focused on USB device detection, management, monitoring and diagnostics.
 
