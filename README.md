@@ -8,6 +8,7 @@ Current Project
 
 - USB Nexus
 - AOD
+- TurboOverlay
 
 An Android application focused on USB device detection, management, monitoring and diagnostics.
 
